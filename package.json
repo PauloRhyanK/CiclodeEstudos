@@ -1,0 +1,17 @@
+{
+  "name": "ciclodeestudos",
+  "version": "1.0.0",
+  "description": "Este projeto consiste em uma aplicação full stack simples para **gestão de estudos**, inspirada no vídeo do [Matemática em Evidência](https://discord.com/channels/1150108025340837908/1297990787690397779/1297996114196299881).",
+  "main": "index.js",
+  "scripts": {
+    "test": "test:watch"
+  },
+  "author": "Paulo Rhyan Kuster",
+  "license": "MIT",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "react": "^19.0.0",
+    "react-icons": "^5.4.0",
+    "react-router-dom": "^6.28.2"
+  }
+}
